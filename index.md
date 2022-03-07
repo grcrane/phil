@@ -13,7 +13,7 @@ Version 2.2 is now available.  The version fixes minor bugs in version 2.1.
 See samples below:
 
 <figure>
-	<img src="{{ site.baseurl }}/assets/images/Simulator-iPhone-8-Plus-1024x509.png">
+	<img src="{{ site.baseurl }}/assets/images/Simulator-iPhone-8-Plus-1536x763.png">
 	<figcaption class="caption-text">
 		iPhone 8 Plus
 	</figcaption>
