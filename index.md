@@ -19,4 +19,18 @@ See samples below:
 	</figcaption>
 </figure>
 
+<figure>
+	<img src="{{ site.baseurl }}/assets/images/Simulator-iPhone-11-2048x946.png">
+	<figcaption class="caption-text">
+		iPhone 11
+	</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ site.baseurl }}/assets/images/Simulator-iPad-Pro-11-inch-1536x1151.png">
+	<figcaption class="caption-text">
+		iPad Pro 11 Inch
+	</figcaption>
+</figure>
+
 Search for Clock-CranePilates App at the Apple App Store on you mobile device.
