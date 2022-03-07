@@ -4,7 +4,6 @@ pages_list:
   Home: '/'  
   Privacy: '/privacy.html'
   Support: '/support.html'
-  Internal: '/internal.html'
 
 title: Qzaar Ltd.
 
