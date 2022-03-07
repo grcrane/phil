@@ -12,6 +12,6 @@ Version 2.2 is now available.  The version fixes minor bugs in version 2.1.
 
 See samples below:x
 
-<img align="left" width="100" height="100" src="{{ site.baseurl }}/images/Simulator-iPad-Pro-11-inch-1536x1151.png"> 
+<img align="left" width="100" height="100" src="{{ site.baseurl }}/assets/images/Simulator-iPad-Pro-11-inch-1536x1151.png"> 
 
 Search for Clock-CranePilates App at the Apple App Store on you mobile device.
