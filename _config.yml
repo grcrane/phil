@@ -1,0 +1,14 @@
+# basic options
+
+pages_list:  
+  Home: '/'  
+  Privacy: '/privacy.html'
+  Support: '/support.html'
+  Internal: '/internal.html'
+
+title: Qzaar Ltd.
+
+# Build settings
+
+markdown: kramdown
+theme: jekyll-theme-cayman
